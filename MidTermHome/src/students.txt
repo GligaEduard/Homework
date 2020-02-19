@@ -1,0 +1,10 @@
+Ion, Popescu, 22, Informatica, 4.1
+George, Molnar, 21, Matematica, 6.15
+Marius, Iliescu, 19, Informatica, 4.5
+Andrei, Constantinescu, 22, Informatica, 10.0
+Radu, Mateescu, 25, Informatica, 7.1
+Cristina, Iura, 24, Matematica, 5.8
+Laura, Grosan, 19, Matematica, 6.8
+Viorel, Florea, 19, Informatica, 9.5
+Irina, Morariu, 22, Matematica, 6.5
+Iulia, Bob, 25, Matematica, 9.1

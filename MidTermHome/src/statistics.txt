@@ -1,0 +1,33 @@
+Students with grades above 6.5: 
+Andrei Constantinescu
+Radu Mateescu
+Laura Grosan
+Viorel Florea
+Iulia Bob
+
+Students with age higher than 22: 
+George Molnar
+Marius Iliescu
+Laura Grosan
+Viorel Florea
+
+Students with grade higher than 5 and are in the informatica department: 
+Ion Popescu
+Marius Iliescu
+
+Students wich failed the exam: 
+Ion Popescu
+Marius Iliescu
+
+Students wich have last name longer than 5 characters: 
+Popescu
+Molnar
+Iliescu
+Constantinescu
+Mateescu
+Grosan
+Florea
+Morariu
+
+Students which are in the Matematica department and are older than 22 and have grades higher than 6 : 
+Iulia Bob
